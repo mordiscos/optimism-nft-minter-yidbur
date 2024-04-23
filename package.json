@@ -1,0 +1,19 @@
+{
+  "name": "optimism-nft-minter-yidbur",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/mordiscos/optimism-nft-minter-yidbur.git",
+  "author": "mordisco <mordisco@mordisco.xyz> (https://www.mordisco.xyz)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "fast-csv": "^5.0.1",
+    "fs": "^0.0.1-security"
+  }
+}
